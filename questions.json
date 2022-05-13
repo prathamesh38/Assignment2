@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "question": "who is the creater of javascript?",
+    "questionType": "radio",
+    "answerOptions": [
+      { "option": "Brendan Eich", "isCorrect": true },
+      { "option": "Sundar pichai", "isCorrect": false },
+      { "option": "Guido van Rossum", "isCorrect": false },
+      { "option": "Bill gates", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 2,
+    "question": "Oops concepts?",
+    "questionType": "checkbox",
+    "answerOptions": [
+      { "option": "Abstration", "isCorrect": true },
+      { "option": "polymorphism", "isCorrect": true },
+      { "option": "stack", "isCorrect": false },
+      { "option": "queue", "isCorrect": false }
+    ]
+  },
+  {
+    "id": 3,
+    "question": "lifecycle methods?",
+    "questionType": "textInput",
+    "answerOptions": [{ "option": "componentDidMount", "isCorrect": true }]
+  }
+]
